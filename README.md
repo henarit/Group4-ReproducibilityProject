@@ -4,4 +4,4 @@ This repository contains an Ipython notebook written by Henar Rituerto, Johan Su
 
 For our reproduction work, we use as a base the code provided by the authors of the paper, which can be accessed through https://github.com/gevaertlab/MultimodalPrognosis. We performed all the modifications, the training and testing using a notebook via Google Colab.
 
-The code we used is found in this repository in the folder /code.
+The code we used is found in the code-folder in this repository.
